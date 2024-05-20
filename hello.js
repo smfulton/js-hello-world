@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello number "+ parseInt(10-1)+" you should know\nQuoth the Raven \"Nevermore\"\n"+'This "works" as well'+` and "this"`);
 
 /*  
 Next, PLAY! 
